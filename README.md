@@ -43,7 +43,7 @@ The license is GPL under MIT license. You can use in your commerical or private 
 Features
 --------
 * Compatible in most modern browsers and newer IE
-* Flexible to use, single or multiple within one page.
+* Flexible to use, single or multiple sliders within one page.
 * Ability to automatically adjust the box size, margin, padding and position the thumbnail images.
 
 
